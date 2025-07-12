@@ -74,7 +74,9 @@ This test sequence performs the following actions:
 
 This automation project targets the `TicTac` mobile application. You can find the source code for the application here:
 
-[**TicTac Application Repository**](https://github.com/SerhiiQAA/MyTicTacToeGame) ## Technologies Used
+[**TicTac Application Repository**](https://github.com/SerhiiQAA/MyTicTacToeGame) 
+
+## Technologies Used
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maestro-4D93C3?style=for-the-badge&logoColor=white" alt="Maestro Badge"/>
