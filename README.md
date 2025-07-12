@@ -25,11 +25,6 @@ To run these tests, you will need to have Maestro CLI installed and a mobile dev
         adb install /path/to/your/TicTac.apk
         ```
         (Replace `/path/to/your/TicTac.apk` with the actual path to your application's APK file).
-* **(Optional) iOS Simulator/Device (for iOS testing on macOS):**
-    * **macOS:** Maestro iOS testing requires a macOS machine.
-    * **Xcode:** Ensure Xcode is installed.
-    * **Simulator:** Launch an iOS Simulator (e.g., via Xcode -> Window -> Devices and Simulators).
-    * **IPA Installation:** Drag and drop your `.ipa` file onto the simulator, or install via `xcrun simctl install <device_id> /path/to/your/TicTac.ipa`.
 
 ### Running the Tests
 
