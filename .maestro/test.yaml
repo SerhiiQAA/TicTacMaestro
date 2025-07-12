@@ -1,0 +1,16 @@
+appId: com.serhiiqa.TicTac 
+---
+- assertVisible: "Tic Tac Toe" 
+- tapOn:
+    point: 22%,38%
+- tapOn:
+    point: 50%,38%
+- tapOn:
+    point: 50%,50%
+- tapOn:
+    point: 78%,50%
+- tapOn:
+    point: 78%,63%
+- assertVisible: "🏆 Player X wins!" 
+- tapOn: "PLAY AGAIN" 
+- assertVisible: "X: 1 | O: 0" 
