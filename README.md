@@ -36,7 +36,7 @@ To run these tests, you will need to have Maestro CLI installed and a mobile dev
 1.  **Navigate to the project directory:**
     Open your terminal and change the directory to this project's root:
     ```bash
-    cd /path/to/your/Mobile/TicTacMaestro # Adjust this path as needed
+    cd https://github.com/SerhiiQAA/MyTicTacToeGame
     ```
 2.  **Execute Maestro tests:**
     To run all tests within the `.maestro/` directory:
@@ -74,7 +74,7 @@ This test sequence performs the following actions:
 
 This automation project targets the `TicTac` mobile application. You can find the source code for the application here:
 
-[**TicTac Application Repository**](https://github.com/yourusername/TicTac-App-Repo) ## Technologies Used
+[**TicTac Application Repository**](https://github.com/SerhiiQAA/MyTicTacToeGame) ## Technologies Used
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maestro-4D93C3?style=for-the-badge&logoColor=white" alt="Maestro Badge"/>
