@@ -1,5 +1,6 @@
 appId: com.serhiiqa.TicTac 
 ---
+- launchApp
 - assertVisible: "Tic Tac Toe" 
 - tapOn:
     point: 22%,38%
@@ -14,3 +15,7 @@ appId: com.serhiiqa.TicTac
 - assertVisible: "🏆 Player X wins!" 
 - tapOn: "PLAY AGAIN" 
 - assertVisible: "X: 1 | O: 0" 
+- tapOn: "Dark Mode"
+- assertVisible: "Light Mode"
+- assertVisible: "©2025 Created by Serhii Sukhomlin"
+
