@@ -4,7 +4,7 @@ This repository contains End-to-End (E2E) UI test automation for a mobile applic
 
 ## Project Overview
 
-This project aims to automate user interface interactions and flows for the `TicTac` mobile application. The tests ensure the core functionalities of the application work as expected across different mobile platforms (primarily Android, with potential for iOS).
+This project aims to automate user interface interactions and flows for the my `TicTac` mobile application. The tests ensure the core functionalities of the application work as expected across different mobile platforms (primarily Android, with potential for iOS).
 
 ## Getting Started
 
